@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://www.icloud.com/iclouddrive/0e1c2H-3ah4NJvIDRmGEsVGlw#SuperWebPlayer</string>
+               </dict> 
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.my.personal.scaleview</string>
+               <key>bundle-version</key>
+               <string>0.0.0.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>SuperWebPlayer</string>
+               <key>title</key>
+               <string>应SuperWebPlayer</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
